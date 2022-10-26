@@ -1,0 +1,17 @@
+*.class
+*.log
+*.iml
+.idea
+.aws-sam
+.bsp
+target
+.java-version
+/postgres-data/
+.DS_Store
+.bloop
+.metals/
+.vscode/
+project/.bloop/
+project/metals.sbt
+project/project/
+.env
